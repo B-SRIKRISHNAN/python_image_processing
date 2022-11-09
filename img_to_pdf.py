@@ -1,3 +1,2 @@
-import img2pdf import *
-
+from img2pdf import *
 
