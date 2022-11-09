@@ -1,2 +1,3 @@
-import img2pdf import *:
+import img2pdf import *
+
 
